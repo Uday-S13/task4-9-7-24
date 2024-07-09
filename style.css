@@ -1,0 +1,17 @@
+.head{
+    background-color: rgb(74, 202, 224);
+    height: 60px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
